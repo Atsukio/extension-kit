@@ -21,8 +21,9 @@ extension in `README.md`, remove the duplicate from the project's `AGENTS.md`, a
 
 ## Layout for new extensions
 
-New extensions use this layout. The existing ones keep theirs (each `AGENTS.md` describes its own); do not move
-files in them without the owner asking, since manifest paths, build lists, tests and screenshot scripts all follow.
+New extensions use this layout. Older ones may keep their own (`README.md` says which; each `AGENTS.md` describes
+its layout); do not move files in them without the owner asking, since manifest paths, build lists, tests and
+screenshot scripts all follow.
 
 ```text
 manifest.json      at the root (Chrome requires it); folder names starting with "_" are reserved by Chrome

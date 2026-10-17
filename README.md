@@ -4,10 +4,10 @@ Shared conventions for the owner's browser extensions, read by Claude Code (and 
 
 ## Extensions using it
 
-| Folder (sibling of this one) | Repo |
-| --- | --- |
-| `clean-subs-for-youtube` | `Atsukio/everything-for-youtube` |
-| `bank-to-wallet-sync` | `Atsukio/bank-to-wallet-sync` |
+| Folder (sibling of this one) | Repo | Layout |
+| --- | --- | --- |
+| `clean-subs-for-youtube` | `Atsukio/everything-for-youtube` | standard (since 2026-10-17) |
+| `bank-to-wallet-sync` | `Atsukio/bank-to-wallet-sync` | its own flat layout |
 
 ## Hooking up an extension
 
